@@ -1,0 +1,7 @@
+{
+        "scope": "user-library-read playlist-modify-public",
+        "playlist_name" : "Spofity AI -",
+        "output_file": "track_info.csv",
+        "playlist_uri": "",
+        "use_cache": "True"
+}
